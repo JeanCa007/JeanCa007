@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeanCa007
 - 
-- Software engineer
-- I am a data analyst
+- Software engineer and IA Developer
+- I am a Data Sciense
 - I consider myself a game developer
 - I like working on AI projects
 
